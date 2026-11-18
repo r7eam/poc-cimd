@@ -1,0 +1,10 @@
+{
+  "client_id": "https://cdn.jsdelivr.net/gh/r7eam/poc-cimd@main/client.json",
+  "client_name": "World Agent",
+  "client_uri": "https://github.com/r7eam/poc-cimd",
+  "redirect_uris": ["https://r7eam.github.io/poc-cimd/callback"],
+  "token_endpoint_auth_method": "none",
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "application_type": "web"
+}
